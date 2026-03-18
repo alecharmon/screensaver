@@ -1,0 +1,4 @@
+./model.go
+./quote.go
+./model_test.go
+./quote_test.go

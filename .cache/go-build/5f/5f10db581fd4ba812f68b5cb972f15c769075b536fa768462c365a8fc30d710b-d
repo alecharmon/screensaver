@@ -1,0 +1,17 @@
+# test log
+getenv TMPDIR
+stat /var/folders/ym/ty1hpdds33106rb17wz5s6fr0000gn/T/TestLoadDailyQuoteUsesTodaysCache575662831/001
+open /var/folders/ym/ty1hpdds33106rb17wz5s6fr0000gn/T/TestLoadDailyQuoteUsesTodaysCache575662831/001/quote.json
+open /var/folders/ym/ty1hpdds33106rb17wz5s6fr0000gn/T/TestLoadDailyQuoteUsesTodaysCache575662831/001/quote.json
+open /var/folders/ym/ty1hpdds33106rb17wz5s6fr0000gn/T
+getenv TMPDIR
+open /var/folders/ym/ty1hpdds33106rb17wz5s6fr0000gn/T/TestLoadDailyQuoteRefreshesAndWritesCache3369606169/001/quote.json
+stat /var/folders/ym/ty1hpdds33106rb17wz5s6fr0000gn/T/TestLoadDailyQuoteRefreshesAndWritesCache3369606169/001
+open /var/folders/ym/ty1hpdds33106rb17wz5s6fr0000gn/T/TestLoadDailyQuoteRefreshesAndWritesCache3369606169/001/quote.json
+open /var/folders/ym/ty1hpdds33106rb17wz5s6fr0000gn/T/TestLoadDailyQuoteRefreshesAndWritesCache3369606169/001/quote.json
+open /var/folders/ym/ty1hpdds33106rb17wz5s6fr0000gn/T
+getenv TMPDIR
+stat /var/folders/ym/ty1hpdds33106rb17wz5s6fr0000gn/T/TestLoadDailyQuoteFallsBackToStaleCache2143604743/001
+open /var/folders/ym/ty1hpdds33106rb17wz5s6fr0000gn/T/TestLoadDailyQuoteFallsBackToStaleCache2143604743/001/quote.json
+open /var/folders/ym/ty1hpdds33106rb17wz5s6fr0000gn/T/TestLoadDailyQuoteFallsBackToStaleCache2143604743/001/quote.json
+open /var/folders/ym/ty1hpdds33106rb17wz5s6fr0000gn/T
